@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ismail OZTURK</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailozturkk&label=Profile%20views&color=0e75b6&style=flat" alt="ismailozturkk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailozturkk" alt="ismailozturkk" /></a> </p>
+
+
 
 - 📫 How to reach me **ismailozturk.dev@gmail.com**
 
@@ -27,3 +27,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismailozturkk/ismailozturkk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismailozturkk/ismailozturkk/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailozturkk" alt="ismailozturkk" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailozturkk&label=Profile%20views&color=0e75b6&style=flat" alt="ismailozturkk" /> </p>
