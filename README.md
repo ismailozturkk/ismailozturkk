@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm ismail OZTURK</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+
+  <h1 align="center">Hi 👋, I'm İsmail ÖZTÜRK</h1>
+
+
+<h3 align="center">I am a software engineering student. I am constantly improving myself in the field of mobile application development, and I care about sustainable and readable code writing. I am open to learning, prone to teamwork and sharing. My goal is to create value both individually and as a team by taking part in user-focused, innovative projects.</h3>
 
 
 
@@ -31,6 +34,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismailozturkk" alt="ismailozturkk" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailozturkk&label=Profile%20views&color=0e75b6&style=flat" alt="ismailozturkk" /> </p>
+
