@@ -26,29 +26,6 @@
             src="https://github-readme-stats.vercel.app/api?username=ismailozturkk&show_icons=true&locale=en&theme=dark" 
             alt="ismailozturkk" />
 </p>
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ismailozturkk
-  &show_icons=true
-  &theme=tokyonight
-  &title_color=00ffe1
-  &text_color=ffffff
-  &icon_color=00ffe1
-  &bg_color=000000
-  &hide_border=true
-  &count_private=true" 
-/>
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailozturkk&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=transparent" 
-       alt="ismailozturkk" />
-</p>
-
-<p>
-  &nbsp;<img align="center" 
-            src="https://github-readme-stats.vercel.app/api?username=ismailozturkk&show_icons=true&locale=en&theme=dark&bg_color=transparent" 
-            alt="ismailozturkk" />
-</p>
-
 
 
 
