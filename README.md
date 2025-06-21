@@ -21,6 +21,7 @@
 <p>
   <img align="left" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailozturkk&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&icon_color=F8D866&title_color=00ffe1&text_color=ffffff&bg_color=1F222E" 
+    width="400px"
     height="200px"
        alt="ismailozturkk" />
 </p>
@@ -28,6 +29,7 @@
 <p>
   &nbsp;<img align="center" 
             src="https://github-readme-stats.vercel.app/api?username=ismailozturkk&show_icons=true&locale=en&theme=dark&hide_border=true&icon_color=F8D866&title_color=00ffe1&text_color=ffffff&bg_color=1F222E" 
+          width="400px"
           height="200px"
             alt="ismailozturkk" />
 </p>
